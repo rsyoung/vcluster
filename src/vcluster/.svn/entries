@@ -1,0 +1,49 @@
+8
+
+dir
+9
+https://vcluster.googlecode.com/svn/trunk/vcluster/src/vcluster
+https://vcluster.googlecode.com/svn
+
+
+
+2011-08-29T16:39:07.172698Z
+7
+seoyoungnoh@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f2f96601-8206-17eb-4605-12a1e6c51ad6
+
+control
+dir
+
+engine
+dir
+
+global
+dir
+
+monitoring
+dir
+
+test
+dir
+
+ui
+dir
+
+util
+dir
+

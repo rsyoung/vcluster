@@ -1,0 +1,55 @@
+8
+
+dir
+9
+https://vcluster.googlecode.com/svn/trunk/vcluster/src/vcluster/control
+https://vcluster.googlecode.com/svn
+
+
+
+2011-08-29T16:39:07.172698Z
+7
+seoyoungnoh@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f2f96601-8206-17eb-4605-12a1e6c51ad6
+
+VMManager.java
+file
+
+
+
+
+2011-09-06T06:41:52.000000Z
+d2958d433fea56b0be8fd26d54cb96c8
+2011-08-29T16:39:07.172698Z
+7
+seoyoungnoh@gmail.com
+
+VMMessage.java
+file
+
+
+
+
+2011-09-06T06:41:52.000000Z
+b3d02d76cff08c21ee7cb3c4f3d94ca0
+2011-08-17T20:09:22.900423Z
+5
+seoyoungnoh@gmail.com
+
+cloudman
+dir
+

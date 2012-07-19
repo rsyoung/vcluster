@@ -1,0 +1,52 @@
+8
+
+dir
+9
+https://vcluster.googlecode.com/svn/trunk/vcluster/src/vcluster/control/cloudman
+https://vcluster.googlecode.com/svn
+
+
+
+2011-08-18T20:44:27.012820Z
+6
+seoyoungnoh@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f2f96601-8206-17eb-4605-12a1e6c51ad6
+
+CloudElement.java
+file
+
+
+
+
+2011-09-06T06:41:52.000000Z
+ceb7f9af481045179e406d3780e8646e
+2011-08-18T20:44:27.012820Z
+6
+seoyoungnoh@gmail.com
+
+CloudManager.java
+file
+
+
+
+
+2011-09-06T06:41:52.000000Z
+d4e9a28242461df27a166c9b03b49dff
+2011-08-18T20:44:27.012820Z
+6
+seoyoungnoh@gmail.com
+
