@@ -1,5 +1,10 @@
 package vcluster.ui;
 
+/**
+ * 
+ * @author rsyoung
+ *
+ */
 public class Menu {
 
 	public static final int TYPE_QUIT = 0;
