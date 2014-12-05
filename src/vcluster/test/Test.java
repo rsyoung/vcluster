@@ -7,7 +7,7 @@ import org.opennebula.client.Client;
 import org.opennebula.client.OneResponse;
 import org.opennebula.client.vm.VirtualMachine;
 
-
+//
 public class Test {
 	public Test() {
 		
